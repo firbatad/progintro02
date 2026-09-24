@@ -1,4 +1,6 @@
-﻿první zkušenost s gitem
+první zkušenost s gitem
+
 vývoj s gitem
-úprva na githubu
-úprava z webu pro konflikt
+
+vyřešený konflikt z pc a webu
+
